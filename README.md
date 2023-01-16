@@ -1,2 +1,2 @@
 # GP_2023
-Switching processes
+A companion repository to "The telegraph process is not a subordinator", simulating the telegraph process and demonstrating its statistics.
